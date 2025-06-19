@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20;
+    background-color: rgb(234, 216, 255);
+}
+h1{
+    color: #4d0491;
+}
+p{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
+#teste{
+    color: rgb(87, 87, 87);
+}
